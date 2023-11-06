@@ -1,0 +1,15 @@
+Metabolite_Name	Reaction_ID
+Fe3+	EX_fe3_e
+Succinate	EX_succ_e
+Glutamate	EX_glu__L_e
+calcium	EX_ca2_e
+sulfate	EX_so4_e
+CO2	EX_co2_e
+H2O	EX_h2o_e
+H+	EX_h_2
+Potassium	EX_k_e
+Magnesium	EX_mg2_e
+Sodium	EX_nal_e
+Ammonium	EX_nh4_e
+O2	Ex_o2_e
+Phosphate	EX_pi_e

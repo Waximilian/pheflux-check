@@ -1,0 +1,3 @@
+Organism	Condition	GeneExpFile	Medium	Network
+Bsubtilis	succ+glcL	../data/transcriptomes/Bsubtilis_Expfile_succ+glcL.csv	../data/mediums/Bsubtilis_Medium_succ+glcL.csv	../data/gems/iYO844.xml
+Bsubtilis	glyc	../data/transcriptomes/Bsubtilis_Expfiles_glyc.csv	../data/mediums/Bsubtilis_Medium_glyc.csv	../data/gems/iYO844.xml

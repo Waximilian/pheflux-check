@@ -1,0 +1,3 @@
+pheflux_base es el modelo con que se tienen errores
+pheflux_v1 se obtuvo de git pheflux y se tienen errores en los flujos de entrada
+
